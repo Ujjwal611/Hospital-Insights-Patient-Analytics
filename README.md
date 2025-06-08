@@ -73,7 +73,7 @@ HealthData-IQ/
 
 ## **📸 Visual Snapshots**  
 **📍 Overall Rating Distribution.**
-
+   ![Alt Text](C:\Users\mannh\masai school\project 1)
 
 📍 Correlation Heatmap of Key Metrics.  
 
