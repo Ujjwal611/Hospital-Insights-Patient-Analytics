@@ -5,9 +5,9 @@ HealthData IQ is a comprehensive data analytics project focused on extracting me
 Developed by ujjwal jain,ayush kumar,ustad sumaiyya  this project integrates statistical analysis, data wrangling, and visualization techniques to uncover patterns in healthcare delivery.
 
 👥 Team Member
-Ayush kumar – Data Cleaning.
-ustad sumaiyya – Data Analysis, Visualization Storytelling.
-ujjwal jain – Data Analysis, Visualization Storytelling
+**Ayush kumar**– Data Cleaning , data handling.
+**ustad sumaiyya** – Data Analysis, insights generating.
+**ujjwal jain** – SQL analysis, insights generating.
 
 🧾 Dataset
 Source:https://www.kaggle.com/datasets/CMS/hospital-general-information
