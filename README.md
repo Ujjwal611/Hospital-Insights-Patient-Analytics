@@ -1,5 +1,5 @@
-🏥 HealthData IQ – Hospital Insights & Patient Analytics
-📝 Overview
+🏥 **HealthData IQ – Hospital Insights & Patient Analytics**   
+📝 **Overview**  
 HealthData IQ is a comprehensive data analytics project focused on extracting meaningful insights from U.S. hospital data. It explores hospital performance, patient satisfaction, quality scores, accessibility, and healthcare outcomes using Python, SQL, and visualization techniques. This project aims to assist healthcare stakeholders in data-driven decision-making through interactive visuals and statistical insights.
 
 Developed by ujjwal jain,ayush kumar,ustad sumaiyya  this project integrates statistical analysis, data wrangling, and visualization techniques to uncover patterns in healthcare delivery.
