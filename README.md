@@ -6,8 +6,8 @@ Developed by **ujjwal jain**, **ayush kumar**, **ustad sumaiyya**  this project 
 
 👥 **Team Member**  
 **Ayush kumar**– Data Cleaning , data handling.    
-**ustad sumaiyya** – Data Analysis, insights generating.  
-**ujjwal jain** – SQL analysis, insights generating.  
+**Ustad Sumaiyya** – Data Analysis, insights generating.  
+**Ujjwal Jain** – SQL Analysis, insights generating.  
 
 🧾 **Dataset**  
 ### **Source:https://www.kaggle.com/datasets/CMS/hospital-general-information**  
