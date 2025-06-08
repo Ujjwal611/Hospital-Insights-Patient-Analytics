@@ -1,27 +1,27 @@
-🏥 **HealthData IQ – Hospital Insights & Patient Analytics**   
+## 🏥 **HealthData IQ – Hospital Insights & Patient Analytics**   
 📝 **Overview**  
-HealthData IQ is a comprehensive data analytics project focused on extracting meaningful insights from U.S. hospital data. It explores hospital performance, patient satisfaction, quality scores, accessibility, and healthcare outcomes using Python, SQL, and visualization techniques. This project aims to assist healthcare stakeholders in data-driven decision-making through interactive visuals and statistical insights.
+HealthData IQ is a comprehensive data analytics project focused on extracting meaningful insights from U.S. hospital data. It explores hospital performance, patient satisfaction, quality scores, accessibility, and healthcare outcomes using Python, SQL, and visualization techniques. This project aims to assist healthcare stakeholders in data-driven decision-making through interactive visuals and statistical insights.  
 
-Developed by ujjwal jain,ayush kumar,ustad sumaiyya  this project integrates statistical analysis, data wrangling, and visualization techniques to uncover patterns in healthcare delivery.
+Developed by **ujjwal jain**, **ayush kumar**, **ustad sumaiyya**  this project integrates statistical analysis, data wrangling, and visualization techniques to uncover patterns in healthcare delivery.  
 
-👥 Team Member
-**Ayush kumar**– Data Cleaning , data handling.
-**ustad sumaiyya** – Data Analysis, insights generating.
-**ujjwal jain** – SQL analysis, insights generating.
+👥 **Team Member**  
+**Ayush kumar**– Data Cleaning , data handling.    
+**ustad sumaiyya** – Data Analysis, insights generating.  
+**ujjwal jain** – SQL analysis, insights generating.  
 
-🧾 Dataset
-Source:https://www.kaggle.com/datasets/CMS/hospital-general-information
+🧾 **Dataset**  
+### **Source:https://www.kaggle.com/datasets/CMS/hospital-general-information**  
 
-File: hospital_data.csv
+**File: hospital_data.csv**  
 
-Key Features Include:
-- Hospital Name, Type, Ownership, Ratings
-- Emergency Services
+**Key Features Include:**    
+- Hospital Name, Type, Ownership, Ratings  
+- Emergency Services  
 - Mortality, Readmission, Safety
 - Patient Survey Results
 - Location: City, State, County
 
-📁 Project Structure
+**📁 Project Structure**
 bash
 Copy
 Edit
@@ -37,49 +37,45 @@ HealthData-IQ/
 ├── 📂 images/                          # (Optional) Store dashboard snapshots
 │
 └── 📂 outputs/                         # Future outputs: reports, models, etc.
-🧹 Data Cleaning
-Data cleaning was performed using Pandas in Python. Key steps included:
+### 🧹**Data Cleaning**  
+- Data cleaning was performed using Pandas in Python.     
+**Key steps included:**  
 
-Removing duplicates and missing/null values
+- Removing duplicates and missing/null values.  
 
-Standardizing column formats (e.g., converting date/time, proper naming)
+- Standardizing column formats (e.g., converting date/time, proper naming).    
 
-Correcting data types (e.g., strings to integers/floats)
+- Correcting data types (e.g., strings to integers/floats).  
 
-Handling outliers using IQR and scatter plots
+- Calculating new features like quality score, patient rating score, etc.  
 
-Calculating new features like quality score, patient rating score, etc.
+### **📊 Exploratory Data Analysis & Statistics**  
+**Key analyses and methods applied:**  
 
-📊 Exploratory Data Analysis & Statistics
-Key analyses and methods applied:
+- Distribution Analysis – Using normal distribution histograms, skewness, and kurtosis.   
 
-Distribution Analysis – Using KDE plots, histograms, skewness, and kurtosis
+- Correlation Analysis – Between hospital ratings, patient satisfaction, and quality scores.  
 
-Correlation Analysis – Between hospital ratings, patient satisfaction, and quality scores
+- Grouped Insights – By hospital type, ownership, and state.  
 
-Grouped Insights – By hospital type, ownership, and state
+- Visualizations – Using Matplotlib, Seaborn for insightful graphs.  
 
-Visualizations – Using Matplotlib, Seaborn for insightful graphs
+## **🧠 SQL Integration (Planned/Future)**  
+- (SQL queries and integration via sqlite3 or mysql-connector-python will be added for dynamic queries on structured data).  
 
-🧠 SQL Integration (Planned/Future)
-(SQL queries and integration via sqlite3 or mysql-connector-python will be added for dynamic queries on structured data)
+-Top-rated hospitals by state.  
 
-Top-rated hospitals by state
+-Average quality scores by hospital ownership.  
 
-Average quality scores by hospital ownership
+-States with highest patient satisfaction.  
 
-States with highest patient satisfaction
+-Hospitals with highest readmission or mortality rates.  
 
-Hospitals with highest readmission or mortality rates
+## **📸 Visual Snapshots**  
+**📍 Overall Rating Distribution.**
 
-📸 Visual Snapshots
-📍 Distribution of Quality Scores
 
-📍 Correlation Heatmap of Key Metrics
-
-📍 Boxplots for Outlier Detection
-
-📍 Scatterplots by Hospital Type and Ownership
+📍 Correlation Heatmap of Key Metrics.  
 
 📍 KDE curve for Patient Satisfaction
 
