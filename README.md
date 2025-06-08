@@ -72,9 +72,8 @@ HealthData-IQ/
 -Hospitals with highest readmission or mortality rates.  
 
 ## **📸 Visual Snapshots**  
-**📍 Overall Rating Distribution.**
-   ![Alt Text](C:\Users\mannh\masai school\project 1)
-
+**📍 Overall Rating Distribution.**  
+   ![Chart](https://example.com/path/to/image.png)
 📍 Correlation Heatmap of Key Metrics.  
 
 📍 KDE curve for Patient Satisfaction
